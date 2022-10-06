@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gursewak22.github.io/csb-zbnecc/static/css/main.2421bd58.chunk.css",
+    "main.js": "https://gursewak22.github.io/csb-zbnecc/static/js/main.d8e5e5d3.chunk.js",
+    "main.js.map": "https://gursewak22.github.io/csb-zbnecc/static/js/main.d8e5e5d3.chunk.js.map",
+    "runtime-main.js": "https://gursewak22.github.io/csb-zbnecc/static/js/runtime-main.c0392cd8.js",
+    "runtime-main.js.map": "https://gursewak22.github.io/csb-zbnecc/static/js/runtime-main.c0392cd8.js.map",
+    "static/js/2.f001480a.chunk.js": "https://gursewak22.github.io/csb-zbnecc/static/js/2.f001480a.chunk.js",
+    "static/js/2.f001480a.chunk.js.map": "https://gursewak22.github.io/csb-zbnecc/static/js/2.f001480a.chunk.js.map",
+    "index.html": "https://gursewak22.github.io/csb-zbnecc/index.html",
+    "static/css/main.2421bd58.chunk.css.map": "https://gursewak22.github.io/csb-zbnecc/static/css/main.2421bd58.chunk.css.map",
+    "static/js/2.f001480a.chunk.js.LICENSE.txt": "https://gursewak22.github.io/csb-zbnecc/static/js/2.f001480a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0392cd8.js",
+    "static/js/2.f001480a.chunk.js",
+    "static/css/main.2421bd58.chunk.css",
+    "static/js/main.d8e5e5d3.chunk.js"
+  ]
+}
